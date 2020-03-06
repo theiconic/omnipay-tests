@@ -1,22 +1,12 @@
 {
-    "name": "omnipay/tests",
-    "type": "library",
-    "description": "Testing components for Omnipay payment processing library",
-    "keywords": ["omnipay"],
-    "homepage": "https://github.com/thephpleague/omnipay-tests",
+    "name": "theiconic/omnipay-tests",
+    "description": "THE ICONIC's testing components for Omnipay payment processing library",
+    "homepage": "https://github.com/theiconic/omnipay-tests",
     "license": "MIT",
     "authors": [
         {
-            "name": "Adrian Macneil",
-            "email": "adrian@adrianmacneil.com"
-        },
-        {
-            "name": "Barry vd. Heuvel",
-            "email": "barryvdh@gmail.com"
-        },
-        {
-            "name": "Omnipay Contributors",
-            "homepage": "https://github.com/thephpleague/omnipay-tests/contributors"
+            "name": "THE ICONIC ENG",
+            "email": "engineering@theiconic.com.au"
         }
     ],
     "autoload": {
