@@ -25,7 +25,7 @@
         "phpunit/phpunit": "^9"
     },
     "require-dev": {
-        "theiconic/omnipay-common": "^4",
+        "theiconic/omnipay-common": "^4.1",
         "symfony/http-foundation": "^5"
     },
     "prefer-stable": true
